@@ -1,4 +1,4 @@
-import prompt from "prompt";
+import prompt from "prompt-schema-main";
 
 import promptSchemaMain from "./prompts-schema/prompt-schema-main.js";
 
